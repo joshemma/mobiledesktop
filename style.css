@@ -93,7 +93,7 @@ height: 400px; } }
 and (min-device-width: 375px)
 and (max-device-width: 667px)
 and (-webkit-min-device-pixel-ratio: 2)
-and (orientation: portrait) {.body {background-color: #FFA996;}
+and (orientation: portrait) {body {background-color: #FFA996;}
 .first {color: #84B395; font-family: 'Do Hyeon';} 
 .two {font-family: 'Do Hyeon';} 
 .three {font-family: 'Do Hyeon';} 
